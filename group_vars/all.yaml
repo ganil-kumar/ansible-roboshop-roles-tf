@@ -9,3 +9,4 @@ MYSQL_HOST: mysql-{{ env }}.akviklabs.online
 SHIPPING_HOST: shipping-{{ env }}.akviklabs.online
 RABBITMQ_HOST: rabbitmq-{{ env }}.akviklabs.online
 PAYMENT_HOST: payment-{{ env }}.akviklabs.online
+app_version: v3
